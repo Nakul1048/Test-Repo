@@ -14,3 +14,4 @@ if wack == 'Y':
     print ("stephen is ")
 else:
     print ('You are wrong, Stephen is wack')
+    print("hello Waqas")
