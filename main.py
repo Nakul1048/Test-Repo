@@ -15,3 +15,6 @@ if wack == 'Y':
 else:
     print ('You are wrong, Stephen is wack')
     print("hello Waqas")
+
+    for x in range(5):
+        print("5")
